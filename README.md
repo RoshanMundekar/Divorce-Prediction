@@ -48,3 +48,4 @@ This project also includes an **LLM-powered chatbot** that allows users to ask q
 ![Model Architecture](screenshots/1.jpeg)
 ![Model Architecture](screenshots/2.jpeg)
 ![Model Architecture](screenshots/3.jpeg)
+![Model Architecture](screenshots/4.jpeg)
